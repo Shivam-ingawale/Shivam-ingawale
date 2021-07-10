@@ -22,19 +22,19 @@
 
 
 <p align="center">  
-  <a href="https://developer.android.com" target="_blank"> <img src="https://user-images.githubusercontent.com/56734609/104542135-c2bf1680-5644-11eb-86cb-c0584c5a7208.png" alt="android" width="40" height="40"/>
-  </a> </a> </a> </a> </a> </a>
+<a href="https://developer.android.com" target="_blank"> <img src="https://user-images.githubusercontent.com/56734609/104542135-c2bf1680-5644-11eb-86cb-c0584c5a7208.png" alt="android" width="40" height="40"/>
+  </a> 
   <a href="https://www.java.com" target="_blank"> <img src="https://user-images.githubusercontent.com/56734609/104541549-a1115f80-5643-11eb-9022-528543fdd0af.png" alt="java" width="40" height="40"/>
 </a> 
 <a href="https://kotlinlang.org" target="_blank"> <img src="https://user-images.githubusercontent.com/56734609/104541639-d4ec8500-5643-11eb-94aa-bb6dae939c67.png" alt="kotlin" width="40" height="40"/> 
 </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/56734609/105128271-838d3b80-5b04-11eb-81e6-8ad05957b4d5.png" alt="mysql" width="45" height="40"/> 
 </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/56734609/106285172-f6658780-6265-11eb-903b-fe5d85504ffd.png" alt="git" width="40" height="40"/> 
-</a>
 </p>
 
-<p align="center">  
+<p align="center"> 
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/56734609/106285172-f6658780-6265-11eb-903b-fe5d85504ffd.png" alt="git" width="40" height="40"/> 
+</a>
 <a href="https://github.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/56734609/106285505-64aa4a00-6266-11eb-9507-fca28ab4d534.png" alt="github" width="40" height="40"/> 
 </a>
 <a href="https://dart.dev/" target="_blank"> <img src="https://user-images.githubusercontent.com/56734609/117447489-07a1ec80-af57-11eb-8b06-7fc5a528a58a.png" alt="dart" width="40" height="40"/> 
@@ -44,4 +44,4 @@
 </p>
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-ingawale&langs_count=7&theme=tokyonight" alt="Donaboyev" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-ingawale&langs_count=10&theme=tokyonight" alt="shivam-ingawale" /></p>
