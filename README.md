@@ -44,4 +44,4 @@
 </p>
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-ingawale&langs_count=25&theme=tokyonight" alt="shivam-ingawale" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-ingawale&langs_count=10&theme=tokyonight" alt="shivam-ingawale" /></p>
