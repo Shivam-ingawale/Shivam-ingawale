@@ -1,54 +1,51 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/wasabeef/wasabeef/master/icons/wave.gif" width="30px">, I'm Shivam</h1>
-<h3 align="center">I am a Android developer</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Shivam-Ingawale" alt="Shivam" /> </p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/wasabeef/wasabeef/master/icons/wave.gif" width="30px">, I'm Shivam </h1>
+<h3 align="center">「 I am a Android developer 」</h3>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Shivam-Ingawale" alt="android"/></p>
 
 - 🌱 I’m currently learning **Flutter and Android Studio**
 
 - New projects soon...
 
 - 💬 Ask me about **#android #java #kotlin**
-
-- 📫 How to reach me **iingawaleshivam@gmail.com**
-
-
-
-
-<p align="center">
-<a href="https://developer.android.com" target="_blank"> <img src="https://user-images.githubusercontent.com/56734609/104542135-c2bf1680-5644-11eb-86cb-c0584c5a7208.png" alt="android" width="40" height="40"/>
-  </a> 
-  <a href="https://www.java.com" target="_blank"> <img src="https://user-images.githubusercontent.com/56734609/104541549-a1115f80-5643-11eb-9022-528543fdd0af.png" alt="java" width="40" height="40"/>
+<br>
+<p align="center" >
+<a href="https://developer.android.com" target="_blank"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android"/></a> 
+  <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"/>
 </a> 
-<a href="https://kotlinlang.org" target="_blank"> <img src="https://user-images.githubusercontent.com/56734609/104541639-d4ec8500-5643-11eb-94aa-bb6dae939c67.png" alt="kotlin" width="40" height="40"/> 
+<a href="https://kotlinlang.org" target="_blank"> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin"/> 
 </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/56734609/105128271-838d3b80-5b04-11eb-81e6-8ad05957b4d5.png" alt="mysql" width="45" height="40"/> 
-</a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/56734609/106285172-f6658780-6265-11eb-903b-fe5d85504ffd.png" alt="git" width="40" height="40"/> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> 
 </a>
-<a href="https://github.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/56734609/106285505-64aa4a00-6266-11eb-9507-fca28ab4d534.png" alt="github" width="40" height="40"/> 
+<a href="https://dart.dev/" target="_blank"> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart"/>  
 </a>
-<a href="https://dart.dev/" target="_blank"> <img src="https://user-images.githubusercontent.com/56734609/117447489-07a1ec80-af57-11eb-8b06-7fc5a528a58a.png" alt="dart" width="40" height="40"/> 
+  <a href="https://github.com/Shivam-ingawale?tab=repositories" target="_blank"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"/>  
 </a>
-<a href="http://flutter.dev/" target="_blank"> <img src="https://user-images.githubusercontent.com/56734609/117447820-6a938380-af57-11eb-91f1-f91abe8176dd.png" alt="flutter" width="40" height="40"/> 
+  <a href="https://github.com/Shivam-ingawale?tab=repositories" target="_blank"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c#"/>  
 </a>
-</p>
-
-<details align="center">
-    <summary> <samp>&#9776; More</samp></summary>
-  <br>
-  
+  <a href="https://github.com/Shivam-ingawale?tab=repositories" target="_blank"> <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="unity"/>  
+</a>
+  <a href="https://github.com/Shivam-ingawale?tab=repositories" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>  
+</a>
+</p>  
   <p align="center" width="100%" height = "100%">
-    <img width="650" height="240" alt="Shivam Ingawale's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shivam-ingawale&show_icons=true&theme=radical" />
-    <img height="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-ingawale&langs_count=5&theme=tokyonight" alt="shivam-ingawale" />
+    <img height="240" alt="Shivam Ingawale's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shivam-ingawale&show_icons=true&theme=radical" />
+    <img height="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-ingawale&langs_count=4&theme=tokyonight" alt="shivam-ingawale" />
       
   </p>
-  
   
   <p align="center"> 
       Connect with me:
     <br>
-      <a href="https://t.me/shiv_1101" target="blank"><img align="middle" src="https://user-images.githubusercontent.com/56734609/104541252-13357480-5643-11eb-896c-cec4e18ce112.png" alt="Shiv" height="40" width="40" /></a>
-    <a href="https://www.linkedin.com/in/shivam-ingawale/" target="blank"><img align="middle" src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" alt="shivam-ingawale" height="40" width="40" /></a></p>
+    <a href="mailto:iingawaleshivam@gmail.com" target="_blank"><img align="middle" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Shiv"/></a>
+    <a href="https://www.linkedin.com/in/shivam-ingawale/" target="blank"><img align="middle" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shivam-ingawale"/></a>
+  <a href="https://t.me/shiv_1101" target="blank"><img align="middle" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Shiv" /></a>
     </p>
   <br>
-</details>
+<!-- Footer -->
+<samp>
+    <p align="center">
+        ════ ⋆★⋆ ════
+        <br>
+        From  <a href="https://github.com/Shivam-ingawale/" target="blank">Shivam</a>👨‍💻!
+    </p>
+</samp>
