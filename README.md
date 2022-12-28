@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/wasabeef/wasabeef/master/icons/wave.gif" width="30px">, I'm Shivam </h1>
-<h3 align="center">「 I am a Android developer 」</h3>
+<h3 align="center">「 I am a Android Developer 」</h3>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Shivam-Ingawale&style=flat-square" alt="android"/>
      <a href="https://github.com/Shivam-ingawale/" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Shivam-ingawale/Shivam-ingawale?label=profile%20updated&style=flat-square"></a></p>
 
